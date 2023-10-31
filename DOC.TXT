@@ -1,0 +1,6 @@
+https://docs.aws.amazon.com/eks/latest/userguide/metrics-server.html -  metrics-server
+
+https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/  - hpa setup
+
+
+
